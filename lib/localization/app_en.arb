@@ -1,0 +1,142 @@
+{
+  "language": "English",
+  "@language": {
+    "description": "current language"
+  },
+  "homePage": "home page",
+  "@homePage": {
+    "description": "Localization for homepage"
+  },
+  "homePage_todayEarn": "Today Income",
+  "homePage_printTodayReport": "Download Today Report",
+  "homePage_dailyRecap": "Daily Recap",
+  "homePage_allService": "All Service",
+  "homePage_total": "Total Income",
+  "homePage_latestService": "Recap Latest Service",
+  "homePage_multiTreatment": "Multi Treatment",
+  "homePage_unknownError": "Unknown Error",
+  "servicePage": "service page",
+  "@servicePage": {
+    "description": "Localization for service page"
+  },
+  "servicePage_listIn": "List In",
+  "servicePage_multiTreatment": "Multi Treatment",
+  "servicePage_noServiceReport": "No Service Report",
+  "withdrawPage": "withdraw page",
+  "@withdrawpage": {
+    "description": "Localization for withdraw page"
+  },
+  "withdrawPage_listIn": "List In",
+  "withdrawPage_noWithdrawReport": "No Withdraw Report",
+  "crewListPage": "Crew List Page",
+  "@crewListPage": {
+    "description": "Localization for crew list page"
+  },
+  "crewListPage_barberList": "Barber List",
+  "crewListPage_newCrew": "New crew",
+  "crewListPage_createNewCrew": "Create new crew",
+  "crewListPage_addNewCrew": "Add new crew",
+  "crewListPage_crewEmpty": "Crew Empty",
+  "crewListPage_updateCrew": "Update Crew",
+  "offering": "Offering",
+  "@offering": {
+    "description": "Localization for side navagiation bar"
+  },
+  "offering_new": "New Offering",
+  "offering_service_new": "New Service",
+  "offering_service_name": "Name Service",
+  "offering_service_add_new": "Add new service",
+  "offering_service_edit_service": "Edit Service",
+  "offering_product_new": "New Product",
+  "offering_product_name": "Name Product",
+  "offering_product_add_new": "Add new product",
+  "offering_product_edit_product": "Edit Product",
+  "pdfExportPage": "Pdf Export Page",
+  "@pdfExportPage": {
+    "description": "Localization for pdf export page"
+  },
+  "pdfExportPage_downloadReport": "Download Report",
+  "pdfExportPage_selectReportDate": "Select Report Date",
+  "pdfExportPage_selectReportType": "Select Report Type",
+  "pdfExportPage_reportIncome": "Report Income",
+  "pdfExportPage_reportWithdraw": "Report Withdraw",
+  "pdfExportPage_reportNetIncome": "Report Net Income",
+  "pdfExportPage_download": "Download",
+  "newRecord": "New Record",
+  "@newRecord": {
+    "description": "Localization for new record page"
+  },
+  "newRecord_successAddingNewRecord": "Success adding new record",
+  "newRecord_somethingWrong": "Something wrong, try again",
+  "newRecord_service_costumerName": "Costumer Name",
+  "newRecord_service_barberName": "Barber Name",
+  "newRecord_service_addService": "Add Service",
+  "newRecord_service_selectService": "Select Service",
+  "newRecord_service_selectBarber": "Select Barber",
+  "newRecord_service_customService": "Custom Service",
+  "newRecord_service_nameOfService": "Name Of Service",
+  "newRecord_service_addProduct": "Add Product",
+  "newRecord_service_selectProduct": "Select Product",
+  "newRecord_service_error": "Error, check again your from",
+  "newRecord_withdraw_titleWithdraw": "Title Withdraw",
+  "newRecord_withdraw_barberName": "Barber Name",
+  "newRecord_withdraw_selectBarber": "Select Barber",
+  "newRecord_withdraw_whatYouBuying": "What you buying ?",
+  "newRecord_withdraw_error": "Error, check again your from",
+  "detailsPage": "Details Page",
+  "@detailsPage": {
+    "description": "Localization for Details Page"
+  },
+  "detailsPage_service_nameCostumer": "Name Costumer",
+  "detailsPage_service_nameBarber": "Name Barber",
+  "detailsPage_service_detailService": "Detail Services",
+  "detailsPage_service_productSold": "Product Sold",
+  "detailsPage_withdraw_nameBarber": "Name Barber",
+  "detailsPage_withdraw_detailWithdraw": "Detail Withdraws",
+  "settingPage": "Setting page",
+  "@settingPage": {
+    "description": "Localization for setting page"
+  },
+  "settingPage_settings": "Settings",
+  "settingPage_language": "Language",
+  "settingPage_choosePreferredLanguage": "choose preferred language",
+  "settingPage_restartCommand": "You Need to restart this app",
+  "settingPage_pin": "Authentication with PIN",
+  "settingPage_insertpin": "Insert PIN",
+  "settingPage_detailpin": "Lock this application with PIN, to secure your application",
+  "verificationPage": "Verification Page",
+  "verificationPage_submit" : "Submit",
+  "verificationPage_invalidPin" : "Invalid PIN",
+  "bottomNavigationBar": "Bottom navigation bar",
+  "@bottomNavigationBar": {
+    "description": "Localization for bottom navigation bar"
+  },
+  "bottomNavigationBar_home": "Home",
+  "bottomNavigationBar_stock": "Stock",
+  "sideNavagiationBar": "Side navigation bar",
+  "@sideNavagiationBar": {
+    "description": "Localization for side navagiation bar"
+  },
+  "sideNavagiationBar_offeringList": "Offering List",
+  "sideNavagiationBar_barber": "Barber",
+  "sideNavagiationBar_downloadReport": "Download Report",
+  "sideNavagiationBar_settings": "Settings",
+  "sideNavagiationBar_logout": "Logout",
+  "global": "Global localization",
+  "@global": {
+    "description": "This is for global localization, used in many page"
+  },
+  "global_empty": "Empty",
+  "global_title": "Title",
+  "global_save": "SAVE",
+  "global_amount": "Amount",
+  "global_price": "Price",
+  "global_name": "Name",
+  "global_withdraw": "Withdraw",
+  "global_service": "Service",
+  "global_product": "Product",
+  "global_delete": "Delete",
+  "global_edit": "Edit",
+  "global_add": "Add",
+  "global_total": "Total"
+}
